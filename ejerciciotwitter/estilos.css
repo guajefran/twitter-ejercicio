@@ -1,0 +1,123 @@
+body {
+  height: 500px;
+  width: 950px;
+  background-color: rgb(244, 248,
+    249);
+  font-family: Arial;
+
+}
+.header {
+  background-color: rgb(255, 255, 255);
+  height: 350px;
+  width: 1000px;
+  margin: 10px;
+  border: 1px solid #C6C6C1;
+  border-radius:10px;
+}
+.container {
+  margin: 40px;
+  width: 900x;
+}
+.foto{
+  height: 80px;
+  width: 80px;
+  float: left;
+  border-radius: 8px;
+  margin-right:25px;
+}
+.usuario-name{
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  font-weight: bold;
+  float: left;
+
+
+}
+.follow{
+  height: 70px;
+  width: 190px;
+  border: 3px solid rgb(85, 172, 238);
+  background-color: rgb(255, 255, 255);
+  border-radius: 8px;
+  float: right;
+  color: rgb(85, 172, 238);
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 2.0;
+
+
+}
+.logo-twitter{
+  height: 60px;
+  width: 60px;
+  float: left;
+}
+.account{
+
+  color: rgb(104,109, 129);
+  font-size: 30px;
+  padding: 50px;
+}
+.text{
+
+  color: rgb(0, 0, 0);
+  font-size: 35px;
+
+
+}
+.fecha{
+
+  color: rgb(101, 116, 127);
+  font-size: 30px;
+  line-height: 2.0;
+
+
+}
+.botones{
+  height: 70px;
+  width: 100%;
+
+
+
+
+}
+
+.love{
+  width: 30px;
+  height: 30px;
+  padding-top: 20px;
+  margin-left: 30px;
+  float:left;
+}
+.responder{
+  width: 30px;
+  height: 30px;
+  float: left;
+  padding-top: 20px;
+
+}
+.retweet{
+    width: 40px;
+  height: 30px;
+  float: left;
+  padding-top: 20px;
+  padding-left: 40px;
+}
+.numero-rt{
+  font-size:30px;
+  color:rgb(105, 120, 130);
+  float: left;
+  aling: center;
+
+  padding-top: 20px;
+  padding-left: 20px;
+}
+.megustas{
+ font-size:30px;
+  color:rgb(105, 120, 130);
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+
+}
